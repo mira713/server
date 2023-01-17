@@ -1,4 +1,5 @@
-[
+{
+   "data" : [
     {
         "name" : "",
         "category" : "sugar",
@@ -331,4 +332,5 @@
         "comp" : "HealthVit",
         "type" : "capsule"
     }
-]
+ ]
+}
